@@ -1,0 +1,9 @@
+"dataset","model","bias_level","group","n","actual_positive_n","predicted_positive_n","true_positive_n","error_n","positive_rate","TPR","group_error_rate"
+"Adult","Logistic Regression","balanced","Female",2500,292,172,94,276,0.0688,0.3219,0.1104
+"Adult","Logistic Regression","balanced","Male",2500,779,396,297,581,0.1584,0.3813,0.2324
+"Adult","Logistic Regression","mild","Female",2500,292,190,99,284,0.076,0.339,0.1136
+"Adult","Logistic Regression","mild","Male",2500,779,409,307,574,0.1636,0.3941,0.2296
+"Adult","Logistic Regression","moderate","Female",2500,292,234,118,290,0.0936,0.4041,0.116
+"Adult","Logistic Regression","moderate","Male",2500,779,475,346,562,0.19,0.4442,0.2248
+"Adult","Logistic Regression","severe","Female",2500,292,289,128,325,0.1156,0.4384,0.13
+"Adult","Logistic Regression","severe","Male",2500,779,522,372,557,0.2088,0.4775,0.2228
