@@ -1,0 +1,5 @@
+"dataset","model","bias_level","cp","minsplit","minbucket","maxdepth","xval","n_splits","n_terminal_nodes","tree_size_total_nodes"
+"Adult","Decision Tree","balanced",0.001,30,10,10,10,31,32,63
+"Adult","Decision Tree","mild",0.001,30,10,10,10,29,30,59
+"Adult","Decision Tree","moderate",0.001,30,10,10,10,28,29,57
+"Adult","Decision Tree","severe",0.001,30,10,10,10,32,33,65

@@ -1,0 +1,4 @@
+"dataset","model","bias_level","delta_accuracy","delta_error_rate","delta_PR_gap","delta_TPR_gap","delta_Error_gap"
+"Adult","Decision Tree","mild",0.00380000000000003,-0.0038,0.00520000000000002,0.0329452934039074,-0.018
+"Adult","Decision Tree","moderate",0.003,-0.003,0.0196,0.03676561098704,-0.034
+"Adult","Decision Tree","severe",-0.00580000000000003,0.0058,0.0188,0.0427444739479839,-0.0492

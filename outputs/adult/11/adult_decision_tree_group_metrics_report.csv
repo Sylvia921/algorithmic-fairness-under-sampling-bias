@@ -1,0 +1,9 @@
+"dataset","model","bias_level","group","n","actual_positive_n","predicted_positive_n","true_positive_n","error_n","positive_rate","TPR","group_error_rate"
+"Adult","Decision Tree","balanced","Female",2500,292,151,103,237,0.0604,0.3527,0.0948
+"Adult","Decision Tree","balanced","Male",2500,779,339,290,538,0.1356,0.3723,0.2152
+"Adult","Decision Tree","mild","Female",2500,292,168,105,250,0.0672,0.3596,0.1
+"Adult","Decision Tree","mild","Male",2500,779,369,321,506,0.1476,0.4121,0.2024
+"Adult","Decision Tree","moderate","Female",2500,292,232,126,272,0.0928,0.4315,0.1088
+"Adult","Decision Tree","moderate","Male",2500,779,469,380,488,0.1876,0.4878,0.1952
+"Adult","Decision Tree","severe","Female",2500,292,289,134,313,0.1156,0.4589,0.1252
+"Adult","Decision Tree","severe","Male",2500,779,524,406,491,0.2096,0.5212,0.1964
