@@ -1,0 +1,5 @@
+"dataset","model","bias_level","mtry","ntree","oob_error","accuracy","error_rate","PR_gap","TPR_gap","Error_gap","delta_PR_gap","delta_TPR_gap","delta_Error_gap"
+"simulated","random_forest","balanced",1,500,0.33175,0.669,0.331,0.054,0.0909505981188933,0.03,0,0,0
+"simulated","random_forest","mild",1,500,0.34725,0.652,0.348,0.112,0.133503789608255,0.012,0.058,0.0425531914893617,-0.018
+"simulated","random_forest","moderate",1,500,0.34975,0.664,0.336,0.068,0.13317505250662,0.056,0.014,0.0422244543877272,0.026
+"simulated","random_forest","severe",1,500,0.3405,0.669,0.331,0.058,0.111642772349557,0.046,0.004,0.0206921742306639,0.016
