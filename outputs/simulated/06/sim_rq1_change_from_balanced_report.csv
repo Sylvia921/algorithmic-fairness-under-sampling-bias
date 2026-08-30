@@ -1,0 +1,10 @@
+"model","bias_level","delta_PR_gap","delta_TPR_gap","delta_Error_gap"
+"logistic_regression","mild",0.002,0.013,0.01
+"logistic_regression","moderate",-0.014,0.008,0.022
+"logistic_regression","severe",0.004,0.03,0.024
+"decision_tree","mild",0.008,0.008,0
+"decision_tree","moderate",0.04,0.016,0
+"decision_tree","severe",0.084,0.127,0.036
+"random_forest","mild",0.058,0.043,-0.018
+"random_forest","moderate",0.014,0.042,0.026
+"random_forest","severe",0.004,0.021,0.016

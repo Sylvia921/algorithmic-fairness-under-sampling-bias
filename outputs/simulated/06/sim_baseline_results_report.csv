@@ -1,0 +1,4 @@
+"Dataset","Model","Accuracy","Error rate","PR gap","TPR gap","Error gap"
+"simulated","Logistic Regression",0.664,0.336,0.084,0.125,0.032
+"simulated","Decision Tree",0.642,0.358,0.032,0.048,0.012
+"simulated","Random Forest",0.669,0.331,0.054,0.091,0.03

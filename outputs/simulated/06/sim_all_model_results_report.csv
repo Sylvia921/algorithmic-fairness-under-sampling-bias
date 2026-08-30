@@ -1,0 +1,13 @@
+"dataset","model","bias_level","accuracy","error_rate","PR_gap","TPR_gap","Error_gap"
+"simulated","logistic_regression","balanced",0.664,0.336,0.084,0.125,0.032
+"simulated","logistic_regression","mild",0.671,0.329,0.086,0.138,0.042
+"simulated","logistic_regression","moderate",0.671,0.329,0.07,0.133,0.054
+"simulated","logistic_regression","severe",0.662,0.338,0.088,0.155,0.056
+"simulated","decision_tree","balanced",0.642,0.358,0.032,0.048,0.012
+"simulated","decision_tree","mild",0.66,0.34,0.04,0.056,0.012
+"simulated","decision_tree","moderate",0.646,0.354,0.072,0.063,0.012
+"simulated","decision_tree","severe",0.624,0.376,0.116,0.175,0.048
+"simulated","random_forest","balanced",0.669,0.331,0.054,0.091,0.03
+"simulated","random_forest","mild",0.652,0.348,0.112,0.134,0.012
+"simulated","random_forest","moderate",0.664,0.336,0.068,0.133,0.056
+"simulated","random_forest","severe",0.669,0.331,0.058,0.112,0.046

@@ -1,0 +1,4 @@
+"dataset","model","accuracy","error_rate","PR_gap","TPR_gap","Error_gap"
+"simulated","logistic_regression",0.664,0.336,0.084,0.125139256688887,0.032
+"simulated","decision_tree",0.642,0.358,0.032,0.0478129851155146,0.012
+"simulated","random_forest",0.669,0.331,0.054,0.0909505981188933,0.03

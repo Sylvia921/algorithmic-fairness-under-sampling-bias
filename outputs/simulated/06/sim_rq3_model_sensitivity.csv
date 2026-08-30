@@ -1,0 +1,10 @@
+"model","bias_level","delta_accuracy","delta_PR_gap","delta_TPR_gap","delta_Error_gap"
+"logistic_regression","mild",0.00700000000000001,0.00199999999999999,0.012912062825313,0.01
+"logistic_regression","moderate",0.00700000000000001,-0.014,0.00825495388549,0.022
+"logistic_regression","severe",-0.002,0.00399999999999999,0.029531549630171,0.024
+"decision_tree","mild",0.018,0.008,0.0084741119532462,0
+"decision_tree","moderate",0.004,0.04,0.0156698018445803,0
+"decision_tree","severe",-0.018,0.084,0.126819468541685,0.036
+"random_forest","mild",-0.017,0.058,0.0425531914893617,-0.018
+"random_forest","moderate",-0.005,0.014,0.0422244543877267,0.026
+"random_forest","severe",0,0.004,0.0206921742306637,0.016
