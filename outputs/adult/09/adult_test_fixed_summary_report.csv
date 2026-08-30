@@ -1,0 +1,3 @@
+"group","n","proportion","y_0_n","y_1_n","y_1_rate","test_total_n","note"
+"Female",2500,0.5,2208,292,0.1168,5000,"Fixed test set is balanced by group only and is not stratified by y."
+"Male",2500,0.5,1721,779,0.3116,5000,"Fixed test set is balanced by group only and is not stratified by y."

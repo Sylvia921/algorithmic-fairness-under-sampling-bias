@@ -1,0 +1,5 @@
+"bias_level","male_n","female_n","total_n","male_rate","female_rate","design_description"
+"balanced",10000,10000,20000,0.5,0.5,"Balanced baseline: Male/Female representation is 50/50."
+"mild",12000,8000,20000,0.6,0.4,"Mild bias: Female is mildly under-represented in the training data."
+"moderate",15000,5000,20000,0.75,0.25,"Moderate bias: Female is moderately under-represented in the training data."
+"severe",18000,2000,20000,0.9,0.1,"Severe bias: Female is strongly under-represented in the training data."
