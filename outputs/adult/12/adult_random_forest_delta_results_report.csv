@@ -1,0 +1,4 @@
+"dataset","model","bias_level","delta_accuracy","delta_error_rate","delta_PR_gap","delta_TPR_gap","delta_Error_gap"
+"Adult","Random Forest","mild",0.0014,-0.0014,-0.0012,0.006,-0.0076
+"Adult","Random Forest","moderate",6e-04,-6e-04,0.01,0.0047,-0.0236
+"Adult","Random Forest","severe",-0.0064,0.0064,0.0096,0.0179,-0.0456

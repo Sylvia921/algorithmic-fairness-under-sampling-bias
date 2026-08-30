@@ -1,0 +1,5 @@
+"dataset","model","bias_level","ntree","mtry","rf_seed","oob_error","n_original_predictors","predictors_used"
+"Adult","Random Forest","balanced",500,2,123,0.1508,7,"age, workclass, education_num, occupation, capital_gain, capital_loss, hours_per_week"
+"Adult","Random Forest","mild",500,2,123,0.1564,7,"age, workclass, education_num, occupation, capital_gain, capital_loss, hours_per_week"
+"Adult","Random Forest","moderate",500,2,123,0.1716,7,"age, workclass, education_num, occupation, capital_gain, capital_loss, hours_per_week"
+"Adult","Random Forest","severe",500,2,123,0.1868,7,"age, workclass, education_num, occupation, capital_gain, capital_loss, hours_per_week"

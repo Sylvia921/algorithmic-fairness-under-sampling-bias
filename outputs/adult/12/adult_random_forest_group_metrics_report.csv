@@ -1,0 +1,9 @@
+"dataset","model","bias_level","group","n","actual_positive_n","predicted_positive_n","true_positive_n","error_n","positive_rate","TPR","group_error_rate"
+"Adult","Random Forest","balanced","Female",2500,292,190,112,258,0.076,0.3836,0.1032
+"Adult","Random Forest","balanced","Male",2500,779,424,342,519,0.1696,0.439,0.2076
+"Adult","Random Forest","mild","Female",2500,292,200,114,264,0.08,0.3904,0.1056
+"Adult","Random Forest","mild","Male",2500,779,431,352,506,0.1724,0.4519,0.2024
+"Adult","Random Forest","moderate","Female",2500,292,264,135,286,0.1056,0.4623,0.1144
+"Adult","Random Forest","moderate","Male",2500,779,523,407,488,0.2092,0.5225,0.1952
+"Adult","Random Forest","severe","Female",2500,292,329,145,331,0.1316,0.4966,0.1324
+"Adult","Random Forest","severe","Male",2500,779,587,444,478,0.2348,0.57,0.1912
