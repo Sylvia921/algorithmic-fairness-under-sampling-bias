@@ -1,0 +1,5 @@
+"dataset","model","bias_level","accuracy","error_rate","PR_gap","TPR_gap","Error_gap","delta_PR_gap","delta_TPR_gap","delta_Error_gap"
+"simulated","decision_tree","balanced",0.642,0.358,0.032,0.0478129851155146,0.012,0,0,0
+"simulated","decision_tree","mild",0.66,0.34,0.04,0.0562870970687608,0.012,0.00799999999999995,0.00847411195324621,-5.55111512312578e-17
+"simulated","decision_tree","moderate",0.646,0.354,0.072,0.0634827869600949,0.012,0.04,0.0156698018445803,0
+"simulated","decision_tree","severe",0.624,0.376,0.116,0.1746324536572,0.048,0.084,0.126819468541686,0.036
