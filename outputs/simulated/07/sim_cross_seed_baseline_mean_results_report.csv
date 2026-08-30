@@ -1,0 +1,4 @@
+"model","mean_accuracy","sd_accuracy","mean_PR_gap","sd_PR_gap","mean_TPR_gap","sd_TPR_gap","mean_Error_gap","sd_Error_gap"
+"logistic_regression",0.681,0.013,0.101,0.03,0.097,0.038,0.019,0.02
+"decision_tree",0.661,0.016,0.092,0.063,0.095,0.067,0.021,0.019
+"random_forest",0.673,0.016,0.116,0.033,0.115,0.046,0.023,0.017
