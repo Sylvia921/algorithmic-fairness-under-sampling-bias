@@ -1,0 +1,15 @@
+"item","value"
+"raw_rows_before_cleaning",48842
+"cleaned_rows_after_required_missing_removal",46033
+"final_rows_after_variable_selection",46033
+"removed_rows_due_to_required_missing_values",2809
+"removed_rate_due_to_required_missing_values",0.0575
+"number_of_variables_final",17
+"income_leq_50K_n",34611
+"income_gt_50K_n",11422
+"income_leq_50K_rate",0.7519
+"income_gt_50K_rate",0.2481
+"male_n",31114
+"female_n",14919
+"male_rate",0.6759
+"female_rate",0.3241

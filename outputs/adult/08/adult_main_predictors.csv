@@ -1,0 +1,8 @@
+"predictor","variable_type","role","reason"
+"age","numeric","main predictor","Age is a standard individual-level predictor and may be related to income."
+"workclass","categorical","main predictor","Workclass is an employment-related predictor and may be related to income."
+"education_num","numeric","main predictor","Education_num is a numeric measure of education level and avoids duplication with education."
+"occupation","categorical","main predictor","Occupation is a core work-related predictor and may be strongly related to income."
+"capital_gain","numeric","main predictor","Capital_gain is a financial predictor related to income."
+"capital_loss","numeric","main predictor","Capital_loss is a financial predictor related to income."
+"hours_per_week","numeric","main predictor","Hours_per_week measures work intensity and may be related to income."

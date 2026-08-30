@@ -1,0 +1,5 @@
+"group","income","n","group_total_n","proportion_within_group"
+"Female","<=50K",13225,14919,0.8865
+"Female",">50K",1694,14919,0.1135
+"Male","<=50K",21386,31114,0.6873
+"Male",">50K",9728,31114,0.3127

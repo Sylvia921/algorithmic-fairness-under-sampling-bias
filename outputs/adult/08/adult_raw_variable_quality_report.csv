@@ -1,0 +1,16 @@
+"variable","data_type","unique_values","missing_count","missing_rate"
+"age","numeric",74,0,0
+"workclass","character",8,2799,0.0573
+"fnlwgt","numeric",28523,0,0
+"education","character",16,0,0
+"education_num","numeric",16,0,0
+"marital_status","character",7,0,0
+"occupation","character",14,2809,0.0575
+"relationship","character",6,0,0
+"race","character",5,0,0
+"sex","character",2,0,0
+"capital_gain","numeric",123,0,0
+"capital_loss","numeric",99,0,0
+"hours_per_week","numeric",96,0,0
+"native_country","character",41,857,0.0175
+"income","character",2,0,0

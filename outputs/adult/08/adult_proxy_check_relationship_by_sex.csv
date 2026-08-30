@@ -1,0 +1,13 @@
+"sex","relationship","n","sex_total_n","proportion_within_sex"
+"Female","Not-in-family",5475,14919,0.367
+"Female","Unmarried",3709,14919,0.2486
+"Female","Own-child",2967,14919,0.1989
+"Female","Wife",2136,14919,0.1432
+"Female","Other-relative",631,14919,0.0423
+"Female","Husband",1,14919,1e-04
+"Male","Husband",19004,31114,0.6108
+"Male","Not-in-family",6441,31114,0.207
+"Male","Own-child",3739,31114,0.1202
+"Male","Unmarried",1158,31114,0.0372
+"Male","Other-relative",769,31114,0.0247
+"Male","Wife",3,31114,1e-04
