@@ -1,0 +1,5 @@
+"dataset","model","bias_level","accuracy","error_rate","PR_gap","TPR_gap","Error_gap","delta_PR_gap","delta_TPR_gap","delta_Error_gap"
+"simulated","logistic_regression","balanced",0.664,0.336,0.084,0.125139256688887,0.032,0,0,0
+"simulated","logistic_regression","mild",0.671,0.329,0.086,0.1380513195142,0.042,0.002,0.0129120628253128,0.01
+"simulated","logistic_regression","moderate",0.671,0.329,0.07,0.133394210574377,0.054,-0.014,0.0082549538854898,0.022
+"simulated","logistic_regression","severe",0.662,0.338,0.088,0.154670806319058,0.056,0.00399999999999995,0.0295315496301707,0.024
